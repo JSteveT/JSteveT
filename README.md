@@ -27,20 +27,24 @@ Cloud:      AWS
 
 ## Selected Projects
 
-- Personal Portfolio
-    A TypeScript-based portfolio showcasing projects and technical skills. (Coming soon to public)
+- Algorithmic Trading Strategies
+    Machine learning and rule-based trading strategies using Python. Features backtesting, optimization, and an interactive dashboard for visualizing predictions and performance.
 
-- Weather API
+- Online Payment Service
+    Django web application that allows users to send and request payments, view transaction history, and manage balances. Includes admin tools for system monitoring.
+
+- Personal Portfolio
+    A TypeScript-based developer portfolio site, designed to showcase projects, skills, and career goals.
+
+- Simple Weather API (private)
     RESTful API built with JavaScript, providing real-time weather data integration.
 
-- GitHub Activity Tracker
+- GitHub Activity Tracker (private)
     Python script to automate and visualize GitHub activity analytics.
 
-- Task Tracker CLI
+- Task Tracker CLI (private)
     Command-line task manager with persistent local storage using Python.
-
-- Additional projects and contributions will be made available shortly.
-
+  
 ---
 
 ## Career Objectives
